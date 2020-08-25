@@ -1,1 +1,3 @@
-# demo-repo
+# Demo
+
+Sample to practice
